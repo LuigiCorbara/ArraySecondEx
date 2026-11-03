@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/BlaisePascal.ArraySecondEx.Console/BlaisePascal.ArraySecondEx.Console.csproj" />
+    <Project Path="src/BlaisePascal.ArraySecondEx.Domain/BlaisePascal.ArraySecondEx.Domain.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/BlaisePascal.ArraySecondEx.UnitTest/BlaisePascal.ArraySecondEx.UnitTest.csproj" />
+  </Folder>
+</Solution>
